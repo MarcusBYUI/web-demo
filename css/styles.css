@@ -113,7 +113,7 @@
   .hamContainer,
   .mobileMenuLogo,
   .closeButton {
-    display: none;
+    display: none !important;
   }
 
   .menuContainer {
